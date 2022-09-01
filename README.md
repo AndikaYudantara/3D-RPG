@@ -17,3 +17,5 @@ To be able to load and build this project, i'm using following version in my mac
 - Blender 3.2.2 (https://www.blender.org/download)
 
 (Note: If you do not install Blender the scene will fail to load / render correctly).
+
+Thank You!
