@@ -1,11 +1,13 @@
 # 3D-RPG
 
+![DEMO](Screenshots/demo.gif)
+
 What is this?
 -------------
 This is a source code for 3D RPG Game that i expand from Brackeys RPG Tutorial.
 - https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7
 
-(Note: There i little change from the original series because i using different version of Unity that not able to load .blend file properly)
+(Note: There is little change from the original series because i using different version of Unity that not able to load .blend file properly)
 
 
 Prerequisites
